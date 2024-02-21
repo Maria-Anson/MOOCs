@@ -1,0 +1,102 @@
+### Module 5 Quiz: Deployment
+> 
+> Latest Submission Grade
+> 
+> 100%
+> 
+> 1.
+> 
+> Question 1
+> 
+> The Watson Assistant (formerly Conversation) plugin for WordPress allows us to deploy a chatbot by specifying the credentials of the corresponding Assistant, without the need to develop a separate, proxy application.
+> 
+> 1 / 1 point
+> 
+
+      True 
+> 
+>  False 
+> 
+> Check
+> 
+> Correct
+> 
+> It's quite convenient when deploying on WordPress sites as it doesn't require us to develop an application that sends the user input to the Watson Assistant service.
+> 
+> 2.
+> 
+> Question 2
+> 
+> A preview link integration allows us to share our chatbot with friends and colleagues.
+> 
+> 1 / 1 point
+> 
+
+      True 
+> 
+>  False 
+> 
+> Check
+> 
+> Correct
+> 
+> That's right, a handy feature.
+> 
+> 3.
+> 
+> Question 3
+> 
+> One or more skills can be linked to an Assistant. In other words, an Assistant can "contain" one or more skills.
+> 
+> 1 / 1 point
+> 
+
+      True 
+> 
+>  False 
+> 
+> Check
+> 
+> Correct
+> 
+> That's right. Typically it will include a Dialog Skill.
+> 
+> 4.
+> 
+> Question 4
+> 
+> The WordPress plugin for Watson Assistant allow us to customize the look and feel of the chat box that appears on the site.
+> 
+> 1 / 1 point
+> 
+
+      True 
+> 
+>  False 
+> 
+> Check
+> 
+> Correct
+> 
+> Indeed. It's quite flexible.
+> 
+> 5.
+> 
+> Question 5
+> 
+> There is no way to limit the chatbot usage in the Watson Assistant WordPress plugin (to prevent abusive users).
+> 
+> 1 / 1 point
+> 
+>  True 
+> 
+
+      False 
+> 
+> Check
+> 
+> Correct
+> 
+> That's right. There are some nice usage management features baked right into the plugin.
+>
+> -- https://www.coursera.org/learn/building-ai-powered-chatbots/exam/uGjMN/module-5-quiz-deployment/attempt?redirectToCover=true#Tunnel Vision Close

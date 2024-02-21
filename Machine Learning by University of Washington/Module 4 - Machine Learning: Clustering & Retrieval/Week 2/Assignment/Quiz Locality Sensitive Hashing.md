@@ -1,0 +1,73 @@
+## Locality Sensitive Hashing
+> 
+> Total points 5
+> 
+> ### 1.
+> 
+> Question 1
+> 
+> (True/False) Like KD-trees, Locality Sensitive Hashing lets us compute exact nearest neighbors while inspecting only a fraction of the data points in the training set.
+> 
+> 1 point
+> 
+>  True 
+> 
+
+      False 
+> 
+> ### 2.
+> 
+> Question 2
+> 
+> (True/False) Given two data points with high cosine similarity, the probability that a randomly drawn line would separate the two points is small.
+> 
+> 1 point
+> 
+
+      True 
+> 
+>  False 
+> 
+> ### 3.
+> 
+> Question 3
+> 
+> (True/False) The true nearest neighbor of the query is guaranteed to fall into the same bin as the query.
+> 
+> 1 point
+> 
+>  True 
+> 
+
+      False 
+> 
+> ### 4.
+> 
+> Question 4
+> 
+> (True/False) Locality Sensitive Hashing is more efficient than KD-trees in high dimensional setting.
+> 
+> 1 point
+> 
+
+      True 
+> 
+>  False 
+> 
+> ### 5.
+> 
+> Question 5
+> 
+> Suppose you trained an LSH model and performed a lookup using the bin index of the query. You notice that the list of candidates returned are not at all similar to the query item. Which of the following changes would **not** produce a more relevant list of candidates?
+> 
+> 1 point
+> 
+>  Use multiple tables. 
+> 
+
+      Increase the number of random lines/hyperplanes. 
+> 
+>  Inspect more neighboring bins to the bin containing the query. 
+> 
+>  Decrease the number of random lines/hyperplanes.
+>
